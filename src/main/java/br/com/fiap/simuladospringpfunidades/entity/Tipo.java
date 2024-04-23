@@ -1,6 +1,7 @@
 package br.com.fiap.simuladospringpfunidades.entity;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.Getter;
 
 @Getter
