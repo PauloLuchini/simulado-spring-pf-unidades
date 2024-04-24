@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  * Personalizando possíveis erros da Aplicação
  */
 
+
 @ControllerAdvice
 public class ValidationExceptionHandler {
 

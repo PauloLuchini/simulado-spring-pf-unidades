@@ -1,5 +1,6 @@
 package br.com.fiap.simuladospringpfunidades.resource;
 
+
 import br.com.fiap.simuladospringpfunidades.entity.Usuario;
 import br.com.fiap.simuladospringpfunidades.repository.UsuarioRepository;
 import br.com.fiap.simuladospringpfunidades.service.UsuarioService;

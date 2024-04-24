@@ -1,5 +1,6 @@
 package br.com.fiap.simuladospringpfunidades.exception;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

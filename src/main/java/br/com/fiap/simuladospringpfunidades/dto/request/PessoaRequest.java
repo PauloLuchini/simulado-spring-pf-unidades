@@ -1,5 +1,6 @@
 package br.com.fiap.simuladospringpfunidades.dto.request;
 
+
 import br.com.fiap.simuladospringpfunidades.entity.Tipo;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;

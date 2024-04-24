@@ -1,6 +1,7 @@
 package br.com.fiap.simuladospringpfunidades.entity;
 
 
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
